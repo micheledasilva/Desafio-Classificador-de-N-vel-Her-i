@@ -1,1 +1,2 @@
 # Desafio-Classificador-de-N-vel-Her-i
+Eu segui passo a passo das aulas sobre instalar Node, Git e Repositório no GitHub. Porém no meu Visual Studio Code constou erros, como se não estivesse instalado, mas instalei e por causa disso, eu não consegui êxito nesse desafio. Mesmo assim treinei, criei pasta com códigos dos desafios, isso funciona no meu Visual Studio Code, mas na hora dele ler no GitHub e importar o repositório dá erro.
